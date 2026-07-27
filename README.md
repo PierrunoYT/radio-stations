@@ -2,9 +2,9 @@
 
 A single deduplicated JSON file of internet radio stations, aggregated from four public directories and matched by stream URL to remove duplicates across sources.
 
-- **98,625 stations**
+- **122,236 stations**
 - Sources: [TuneIn](https://tunein.com) (unofficial API), [Radio-Browser.info](https://www.radio-browser.info/) (open API), [Radio Garden](https://radio.garden/), and [Icecast](https://icecast.org/)'s public YP directory
-- 14,015 of the records were confirmed present in 2+ sources
+- 18,147 of the records were confirmed present in 2+ sources
 
 ## Schema
 
